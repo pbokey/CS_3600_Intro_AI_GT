@@ -1,0 +1,29 @@
+Testing Balloon dataset. Number of examples 20.
+Tree size: 9.
+
+Entire tree written out to balloon.out in local directory
+
+Starting test for average error for 20 runs with test size 200
+Score for run 1 is 0.60
+Score for run 2 is 0.67
+Score for run 3 is 0.93
+Score for run 4 is 0.93
+Score for run 5 is 0.53
+Score for run 6 is 0.67
+Score for run 7 is 0.93
+Score for run 8 is 0.67
+Score for run 9 is 0.93
+Score for run 10 is 0.27
+Score for run 11 is 0.53
+Score for run 12 is 0.53
+Score for run 13 is 0.67
+Score for run 14 is 0.67
+Score for run 15 is 0.67
+Score for run 16 is 0.93
+Score for run 17 is 0.53
+Score for run 18 is 0.67
+Score for run 19 is 0.67
+Score for run 20 is 0.47
+Average classification rate over all runs: 0.67
+Results for training set:
+([0.6, 0.66667, 0.93333, 0.93333, 0.53333, 0.66667, 0.93333, 0.66667, 0.93333, 0.26667, 0.53333, 0.53333, 0.66667, 0.66667, 0.66667, 0.93333, 0.53333, 0.66667, 0.66667, 0.46667], 0.6733334999999999)

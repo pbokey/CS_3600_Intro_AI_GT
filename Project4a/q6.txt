@@ -1,0 +1,99 @@
+Testing dummy dataset 1. Number of examples 20.
+Tree is as follows:
+5 = 0
+|---1
+5 = 1
+|---0
+
+
+Tree size: 3.
+
+Results for training set:
+(1.0, [])
+
+Done
+____________________________________________________________________
+
+Testing dummy dataset 2. Number of examples 20.
+Tree is as follows:
+2 = 0
+|---0 = 0
+|---|---0
+|---0 = 1
+|---|---4 = 0
+|---|---|---1
+|---|---4 = 1
+|---|---|---0
+2 = 1
+|---5 = 0
+|---|---6 = 0
+|---|---|---0
+|---|---6 = 1
+|---|---|---1
+|---5 = 1
+|---|---1
+
+
+Tree size: 11.
+
+Results for training set:
+(0.65, [(0, 1), (0, 1), (1, 0), (0, 1), (0, 1), (0, 1), (1, 0)])
+
+Done
+____________________________________________________________________
+
+Testing Connect4 dataset. Number of examples 67557.
+Tree size: 41521.
+
+Entire tree written out to connect4.out in local directory
+
+Starting test for average error for 10 runs with test size 2000
+Score for run 1 is 0.67
+Score for run 2 is 0.73
+Score for run 3 is 0.87
+Score for run 4 is 0.73
+Score for run 5 is 0.73
+Score for run 6 is 0.87
+Score for run 7 is 0.93
+Score for run 8 is 0.80
+Score for run 9 is 0.87
+Score for run 10 is 0.80
+Average classification rate over all runs: 0.80
+Results for training set:
+([0.66667, 0.73333, 0.86667, 0.73333, 0.73333, 0.86667, 0.93333, 0.8, 0.86667, 0.8], 0.7999999999999999)
+
+Done
+____________________________________________________________________
+
+Testing Car dataset. Number of examples 1728.
+Tree size: 408.
+
+Entire tree written out to car.out in local directory
+
+Starting test for average error for 20 runs with test size 200
+Score for run 1 is 0.93
+Score for run 2 is 0.93
+Score for run 3 is 1.00
+Score for run 4 is 1.00
+Score for run 5 is 0.93
+Score for run 6 is 0.93
+Score for run 7 is 1.00
+Score for run 8 is 1.00
+Score for run 9 is 1.00
+Score for run 10 is 1.00
+Score for run 11 is 0.93
+Score for run 12 is 0.87
+Score for run 13 is 0.93
+Score for run 14 is 0.93
+Score for run 15 is 0.93
+Score for run 16 is 1.00
+Score for run 17 is 1.00
+Score for run 18 is 1.00
+Score for run 19 is 1.00
+Score for run 20 is 1.00
+Average classification rate over all runs: 0.97
+Results for training set:
+([0.93333, 0.93333, 1.0, 1.0, 0.93333, 0.93333, 1.0, 1.0, 1.0, 1.0, 0.93333, 0.86667, 0.93333, 0.93333, 0.93333, 1.0, 1.0, 1.0, 1.0, 1.0], 0.9666654999999998)
+
+Done
+____________________________________________________________________

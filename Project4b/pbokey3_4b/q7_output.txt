@@ -1,0 +1,1325 @@
+Starting training at time 22:42:55.124119 with 4 inputs, 2 outputs, [1] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.147974 with training error 0.125974 and weight change 0.004365
+Feed Forward Test correctly classified 0, incorrectly classified 4, test percent error  0.000000
+
+Accuracy (No Hidden Layer):  0.0
+--------------running with 0 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:42:55.148118 with 4 inputs, 2 outputs, [0] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.161590 with training error 0.125784 and weight change 0.012539
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 2
+Starting training at time 22:42:55.161756 with 4 inputs, 2 outputs, [0] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.182917 with training error 0.125785 and weight change 0.012539
+Feed Forward Test correctly classified 0, incorrectly classified 4, test percent error  0.000000
+
+running iteration # 3
+Starting training at time 22:42:55.182999 with 4 inputs, 2 outputs, [0] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.205181 with training error 0.125784 and weight change 0.012539
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 4
+Starting training at time 22:42:55.205309 with 4 inputs, 2 outputs, [0] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.221604 with training error 0.125785 and weight change 0.012539
+Feed Forward Test correctly classified 0, incorrectly classified 4, test percent error  0.000000
+
+running iteration # 5
+Starting training at time 22:42:55.221900 with 4 inputs, 2 outputs, [0] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.244801 with training error 0.125784 and weight change 0.012539
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+Iterations finished
+accuracy average: 0.3
+accuracy standard deviation: 0.244948974278
+max accuracy: 0.5
+--------------running with 1 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:42:55.244970 with 4 inputs, 2 outputs, [1] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.287985 with training error 0.123022 and weight change 0.004360
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 2
+Starting training at time 22:42:55.288216 with 4 inputs, 2 outputs, [1] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.325995 with training error 0.125997 and weight change 0.004995
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 3
+Starting training at time 22:42:55.326144 with 4 inputs, 2 outputs, [1] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.368789 with training error 0.118820 and weight change 0.004327
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 4
+Starting training at time 22:42:55.368943 with 4 inputs, 2 outputs, [1] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.408015 with training error 0.125879 and weight change 0.003799
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 5
+Starting training at time 22:42:55.408154 with 4 inputs, 2 outputs, [1] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.442958 with training error 0.126237 and weight change 0.004785
+Feed Forward Test correctly classified 0, incorrectly classified 4, test percent error  0.000000
+
+Iterations finished
+accuracy average: 0.4
+accuracy standard deviation: 0.25495097568
+max accuracy: 0.75
+--------------running with 2 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:42:55.443176 with 4 inputs, 2 outputs, [2] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.495785 with training error 0.126245 and weight change 0.003789
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 2
+Starting training at time 22:42:55.495960 with 4 inputs, 2 outputs, [2] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.551940 with training error 0.126095 and weight change 0.003405
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 3
+Starting training at time 22:42:55.552071 with 4 inputs, 2 outputs, [2] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.592055 with training error 0.126274 and weight change 0.003062
+Feed Forward Test correctly classified 0, incorrectly classified 4, test percent error  0.000000
+
+running iteration # 4
+Starting training at time 22:42:55.592225 with 4 inputs, 2 outputs, [2] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.641248 with training error 0.125995 and weight change 0.002995
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 5
+Starting training at time 22:42:55.641435 with 4 inputs, 2 outputs, [2] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.693612 with training error 0.125682 and weight change 0.003281
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+Iterations finished
+accuracy average: 0.35
+accuracy standard deviation: 0.25495097568
+max accuracy: 0.75
+--------------running with 3 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:42:55.693904 with 4 inputs, 2 outputs, [3] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.748801 with training error 0.124758 and weight change 0.003472
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 2
+Starting training at time 22:42:55.749008 with 4 inputs, 2 outputs, [3] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.816612 with training error 0.125955 and weight change 0.002869
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 3
+Starting training at time 22:42:55.816856 with 4 inputs, 2 outputs, [3] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.878625 with training error 0.126625 and weight change 0.003177
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 4
+Starting training at time 22:42:55.878824 with 4 inputs, 2 outputs, [3] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.935121 with training error 0.127426 and weight change 0.003881
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 5
+Starting training at time 22:42:55.935307 with 4 inputs, 2 outputs, [3] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:55.995370 with training error 0.125368 and weight change 0.002887
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+Iterations finished
+accuracy average: 0.4
+accuracy standard deviation: 0.122474487139
+max accuracy: 0.5
+--------------running with 4 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:42:55.995831 with 4 inputs, 2 outputs, [4] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:56.071882 with training error 0.124468 and weight change 0.002525
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 2
+Starting training at time 22:42:56.072130 with 4 inputs, 2 outputs, [4] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:56.126486 with training error 0.126238 and weight change 0.003028
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 3
+Starting training at time 22:42:56.126688 with 4 inputs, 2 outputs, [4] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:56.205658 with training error 0.126958 and weight change 0.003059
+Feed Forward Test correctly classified 0, incorrectly classified 4, test percent error  0.000000
+
+running iteration # 4
+Starting training at time 22:42:56.205853 with 4 inputs, 2 outputs, [4] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:56.305409 with training error 0.127105 and weight change 0.003073
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 5
+Starting training at time 22:42:56.305746 with 4 inputs, 2 outputs, [4] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:56.403787 with training error 0.125871 and weight change 0.002779
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+Iterations finished
+accuracy average: 0.25
+accuracy standard deviation: 0.158113883008
+max accuracy: 0.5
+--------------running with 5 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:42:56.404211 with 4 inputs, 2 outputs, [5] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:56.483126 with training error 0.119093 and weight change 0.003571
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 2
+Starting training at time 22:42:56.483376 with 4 inputs, 2 outputs, [5] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:56.586484 with training error 0.125008 and weight change 0.003238
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 3
+Starting training at time 22:42:56.586788 with 4 inputs, 2 outputs, [5] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:56.658352 with training error 0.126022 and weight change 0.002537
+Feed Forward Test correctly classified 0, incorrectly classified 4, test percent error  0.000000
+
+running iteration # 4
+Starting training at time 22:42:56.658678 with 4 inputs, 2 outputs, [5] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:56.728226 with training error 0.126561 and weight change 0.002880
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 5
+Starting training at time 22:42:56.728462 with 4 inputs, 2 outputs, [5] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:56.797495 with training error 0.121200 and weight change 0.002973
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+Iterations finished
+accuracy average: 0.5
+accuracy standard deviation: 0.273861278753
+max accuracy: 0.75
+--------------running with 6 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:42:56.797777 with 4 inputs, 2 outputs, [6] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:56.872300 with training error 0.125316 and weight change 0.003196
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 2
+Starting training at time 22:42:56.872604 with 4 inputs, 2 outputs, [6] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:56.949027 with training error 0.126331 and weight change 0.002858
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 3
+Starting training at time 22:42:56.949212 with 4 inputs, 2 outputs, [6] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:57.020086 with training error 0.127222 and weight change 0.002808
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 4
+Starting training at time 22:42:57.020268 with 4 inputs, 2 outputs, [6] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:57.090089 with training error 0.127373 and weight change 0.002872
+Feed Forward Test correctly classified 0, incorrectly classified 4, test percent error  0.000000
+
+running iteration # 5
+Starting training at time 22:42:57.090313 with 4 inputs, 2 outputs, [6] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:57.163179 with training error 0.127047 and weight change 0.003146
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+Iterations finished
+accuracy average: 0.25
+accuracy standard deviation: 0.158113883008
+max accuracy: 0.5
+--------------running with 7 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:42:57.163432 with 4 inputs, 2 outputs, [7] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:57.254512 with training error 0.123117 and weight change 0.002704
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 2
+Starting training at time 22:42:57.254743 with 4 inputs, 2 outputs, [7] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:57.332842 with training error 0.127141 and weight change 0.003019
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 3
+Starting training at time 22:42:57.333027 with 4 inputs, 2 outputs, [7] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:57.412894 with training error 0.127696 and weight change 0.003262
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 4
+Starting training at time 22:42:57.413076 with 4 inputs, 2 outputs, [7] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:57.489948 with training error 0.127080 and weight change 0.002594
+Feed Forward Test correctly classified 0, incorrectly classified 4, test percent error  0.000000
+
+running iteration # 5
+Starting training at time 22:42:57.490142 with 4 inputs, 2 outputs, [7] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:57.576401 with training error 0.126542 and weight change 0.002247
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+Iterations finished
+accuracy average: 0.25
+accuracy standard deviation: 0.158113883008
+max accuracy: 0.5
+--------------running with 8 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:42:57.576614 with 4 inputs, 2 outputs, [8] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:57.662306 with training error 0.124151 and weight change 0.002879
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 2
+Starting training at time 22:42:57.662611 with 4 inputs, 2 outputs, [8] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:57.752572 with training error 0.125342 and weight change 0.003180
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 3
+Starting training at time 22:42:57.752821 with 4 inputs, 2 outputs, [8] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:57.843149 with training error 0.118731 and weight change 0.003213
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 4
+Starting training at time 22:42:57.843346 with 4 inputs, 2 outputs, [8] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:57.929545 with training error 0.122110 and weight change 0.002979
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 5
+Starting training at time 22:42:57.929789 with 4 inputs, 2 outputs, [8] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:58.013388 with training error 0.124025 and weight change 0.002634
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+Iterations finished
+accuracy average: 0.65
+accuracy standard deviation: 0.122474487139
+max accuracy: 0.75
+--------------running with 9 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:42:58.013615 with 4 inputs, 2 outputs, [9] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:58.116317 with training error 0.127732 and weight change 0.003148
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 2
+Starting training at time 22:42:58.116551 with 4 inputs, 2 outputs, [9] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:58.205230 with training error 0.127102 and weight change 0.002837
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 3
+Starting training at time 22:42:58.205501 with 4 inputs, 2 outputs, [9] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:58.298002 with training error 0.127555 and weight change 0.002948
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 4
+Starting training at time 22:42:58.298273 with 4 inputs, 2 outputs, [9] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:58.395282 with training error 0.123975 and weight change 0.002031
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 5
+Starting training at time 22:42:58.395677 with 4 inputs, 2 outputs, [9] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:58.508380 with training error 0.128454 and weight change 0.002653
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+Iterations finished
+accuracy average: 0.35
+accuracy standard deviation: 0.122474487139
+max accuracy: 0.5
+--------------running with 10 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:42:58.508644 with 4 inputs, 2 outputs, [10] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:58.618827 with training error 0.126951 and weight change 0.002741
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 2
+Starting training at time 22:42:58.619079 with 4 inputs, 2 outputs, [10] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:58.742300 with training error 0.124469 and weight change 0.002539
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 3
+Starting training at time 22:42:58.742552 with 4 inputs, 2 outputs, [10] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:58.848248 with training error 0.125825 and weight change 0.002742
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 4
+Starting training at time 22:42:58.848466 with 4 inputs, 2 outputs, [10] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:59.002158 with training error 0.125107 and weight change 0.003001
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 5
+Starting training at time 22:42:59.002460 with 4 inputs, 2 outputs, [10] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:59.132785 with training error 0.127204 and weight change 0.002618
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+Iterations finished
+accuracy average: 0.4
+accuracy standard deviation: 0.122474487139
+max accuracy: 0.5
+--------------running with 11 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:42:59.133143 with 4 inputs, 2 outputs, [11] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:59.266731 with training error 0.116490 and weight change 0.002978
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 2
+Starting training at time 22:42:59.266961 with 4 inputs, 2 outputs, [11] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:59.430112 with training error 0.123267 and weight change 0.003182
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 3
+Starting training at time 22:42:59.430477 with 4 inputs, 2 outputs, [11] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:59.550124 with training error 0.118195 and weight change 0.002559
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 4
+Starting training at time 22:42:59.550440 with 4 inputs, 2 outputs, [11] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:59.659011 with training error 0.127598 and weight change 0.002423
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 5
+Starting training at time 22:42:59.659320 with 4 inputs, 2 outputs, [11] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:59.764011 with training error 0.125262 and weight change 0.002607
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+Iterations finished
+accuracy average: 0.55
+accuracy standard deviation: 0.1
+max accuracy: 0.75
+--------------running with 12 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:42:59.764276 with 4 inputs, 2 outputs, [12] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:42:59.902009 with training error 0.120091 and weight change 0.002652
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 2
+Starting training at time 22:42:59.902269 with 4 inputs, 2 outputs, [12] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:00.089048 with training error 0.125052 and weight change 0.002575
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 3
+Starting training at time 22:43:00.089440 with 4 inputs, 2 outputs, [12] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:00.237705 with training error 0.125746 and weight change 0.002931
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 4
+Starting training at time 22:43:00.237988 with 4 inputs, 2 outputs, [12] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:00.427645 with training error 0.125571 and weight change 0.002857
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 5
+Starting training at time 22:43:00.428075 with 4 inputs, 2 outputs, [12] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:00.567860 with training error 0.127007 and weight change 0.002282
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+Iterations finished
+accuracy average: 0.5
+accuracy standard deviation: 0.158113883008
+max accuracy: 0.75
+--------------running with 13 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:00.568116 with 4 inputs, 2 outputs, [13] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:00.686775 with training error 0.121126 and weight change 0.002628
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 2
+Starting training at time 22:43:00.687017 with 4 inputs, 2 outputs, [13] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:00.808600 with training error 0.119255 and weight change 0.002703
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 3
+Starting training at time 22:43:00.808835 with 4 inputs, 2 outputs, [13] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:00.947380 with training error 0.125499 and weight change 0.002531
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 4
+Starting training at time 22:43:00.947614 with 4 inputs, 2 outputs, [13] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:01.070475 with training error 0.127434 and weight change 0.002666
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 5
+Starting training at time 22:43:01.070795 with 4 inputs, 2 outputs, [13] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:01.200270 with training error 0.123291 and weight change 0.002294
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+Iterations finished
+accuracy average: 0.45
+accuracy standard deviation: 0.244948974278
+max accuracy: 0.75
+--------------running with 14 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:01.200532 with 4 inputs, 2 outputs, [14] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:01.329877 with training error 0.126270 and weight change 0.003100
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 2
+Starting training at time 22:43:01.330119 with 4 inputs, 2 outputs, [14] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:01.464878 with training error 0.122216 and weight change 0.002924
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 3
+Starting training at time 22:43:01.465122 with 4 inputs, 2 outputs, [14] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:01.587765 with training error 0.127724 and weight change 0.002402
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 4
+Starting training at time 22:43:01.588046 with 4 inputs, 2 outputs, [14] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:01.712899 with training error 0.120251 and weight change 0.002435
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 5
+Starting training at time 22:43:01.713178 with 4 inputs, 2 outputs, [14] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:01.839243 with training error 0.124427 and weight change 0.002498
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+Iterations finished
+accuracy average: 0.5
+accuracy standard deviation: 0.0
+max accuracy: 0.5
+--------------running with 15 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:01.839641 with 4 inputs, 2 outputs, [15] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:01.976203 with training error 0.125844 and weight change 0.002391
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 2
+Starting training at time 22:43:01.976525 with 4 inputs, 2 outputs, [15] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:02.113240 with training error 0.124420 and weight change 0.002493
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 3
+Starting training at time 22:43:02.113528 with 4 inputs, 2 outputs, [15] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:02.243050 with training error 0.122581 and weight change 0.002666
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 4
+Starting training at time 22:43:02.243402 with 4 inputs, 2 outputs, [15] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:02.372435 with training error 0.123106 and weight change 0.002911
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 5
+Starting training at time 22:43:02.372687 with 4 inputs, 2 outputs, [15] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:02.503947 with training error 0.126758 and weight change 0.002694
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+Iterations finished
+accuracy average: 0.6
+accuracy standard deviation: 0.122474487139
+max accuracy: 0.75
+--------------running with 16 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:02.504248 with 4 inputs, 2 outputs, [16] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:02.639982 with training error 0.129825 and weight change 0.002753
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 2
+Starting training at time 22:43:02.640250 with 4 inputs, 2 outputs, [16] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:02.776933 with training error 0.129906 and weight change 0.002981
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 3
+Starting training at time 22:43:02.777228 with 4 inputs, 2 outputs, [16] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:02.920379 with training error 0.128271 and weight change 0.002851
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 4
+Starting training at time 22:43:02.920726 with 4 inputs, 2 outputs, [16] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:03.071901 with training error 0.129195 and weight change 0.002864
+Feed Forward Test correctly classified 0, incorrectly classified 4, test percent error  0.000000
+
+running iteration # 5
+Starting training at time 22:43:03.072179 with 4 inputs, 2 outputs, [16] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:03.212809 with training error 0.129370 and weight change 0.002658
+Feed Forward Test correctly classified 0, incorrectly classified 4, test percent error  0.000000
+
+Iterations finished
+accuracy average: 0.2
+accuracy standard deviation: 0.187082869339
+max accuracy: 0.5
+--------------running with 17 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:03.213205 with 4 inputs, 2 outputs, [17] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:03.368769 with training error 0.127012 and weight change 0.003089
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 2
+Starting training at time 22:43:03.369183 with 4 inputs, 2 outputs, [17] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:03.583257 with training error 0.114130 and weight change 0.002614
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 3
+Starting training at time 22:43:03.583684 with 4 inputs, 2 outputs, [17] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:03.735026 with training error 0.127976 and weight change 0.002290
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 4
+Starting training at time 22:43:03.735300 with 4 inputs, 2 outputs, [17] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:03.907202 with training error 0.125226 and weight change 0.002891
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 5
+Starting training at time 22:43:03.907546 with 4 inputs, 2 outputs, [17] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:04.092230 with training error 0.117477 and weight change 0.002690
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+Iterations finished
+accuracy average: 0.6
+accuracy standard deviation: 0.3
+max accuracy: 1.0
+--------------running with 18 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:04.092564 with 4 inputs, 2 outputs, [18] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:04.243031 with training error 0.116275 and weight change 0.002428
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 2
+Starting training at time 22:43:04.243326 with 4 inputs, 2 outputs, [18] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:04.395179 with training error 0.124011 and weight change 0.002720
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 3
+Starting training at time 22:43:04.395526 with 4 inputs, 2 outputs, [18] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:04.580294 with training error 0.116628 and weight change 0.002074
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 4
+Starting training at time 22:43:04.580823 with 4 inputs, 2 outputs, [18] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:04.762315 with training error 0.125519 and weight change 0.002413
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 5
+Starting training at time 22:43:04.762799 with 4 inputs, 2 outputs, [18] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:04.980007 with training error 0.120296 and weight change 0.002338
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+Iterations finished
+accuracy average: 0.5
+accuracy standard deviation: 0.158113883008
+max accuracy: 0.75
+--------------running with 19 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:04.980393 with 4 inputs, 2 outputs, [19] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:05.189105 with training error 0.125027 and weight change 0.002967
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 2
+Starting training at time 22:43:05.189461 with 4 inputs, 2 outputs, [19] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:05.386735 with training error 0.112782 and weight change 0.002605
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 3
+Starting training at time 22:43:05.387104 with 4 inputs, 2 outputs, [19] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:05.562576 with training error 0.122584 and weight change 0.002770
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 4
+Starting training at time 22:43:05.562911 with 4 inputs, 2 outputs, [19] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:05.723986 with training error 0.123487 and weight change 0.002703
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 5
+Starting training at time 22:43:05.724309 with 4 inputs, 2 outputs, [19] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:05.901925 with training error 0.124439 and weight change 0.002490
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+Iterations finished
+accuracy average: 0.55
+accuracy standard deviation: 0.244948974278
+max accuracy: 1.0
+--------------running with 20 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:05.902256 with 4 inputs, 2 outputs, [20] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:06.083314 with training error 0.122101 and weight change 0.002327
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 2
+Starting training at time 22:43:06.083637 with 4 inputs, 2 outputs, [20] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:06.261753 with training error 0.119013 and weight change 0.002650
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 3
+Starting training at time 22:43:06.262078 with 4 inputs, 2 outputs, [20] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:06.507055 with training error 0.116116 and weight change 0.002721
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 4
+Starting training at time 22:43:06.507521 with 4 inputs, 2 outputs, [20] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:06.710757 with training error 0.122832 and weight change 0.002576
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 5
+Starting training at time 22:43:06.711079 with 4 inputs, 2 outputs, [20] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:06.911271 with training error 0.121565 and weight change 0.002685
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+Iterations finished
+accuracy average: 0.7
+accuracy standard deviation: 0.1
+max accuracy: 0.75
+--------------running with 21 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:06.914178 with 4 inputs, 2 outputs, [21] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:07.110200 with training error 0.123167 and weight change 0.002612
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 2
+Starting training at time 22:43:07.110502 with 4 inputs, 2 outputs, [21] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:07.284696 with training error 0.127002 and weight change 0.002318
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 3
+Starting training at time 22:43:07.285047 with 4 inputs, 2 outputs, [21] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:07.542512 with training error 0.119233 and weight change 0.002869
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 4
+Starting training at time 22:43:07.543199 with 4 inputs, 2 outputs, [21] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:07.779425 with training error 0.125756 and weight change 0.002393
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 5
+Starting training at time 22:43:07.780192 with 4 inputs, 2 outputs, [21] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:08.059286 with training error 0.122946 and weight change 0.002574
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+Iterations finished
+accuracy average: 0.55
+accuracy standard deviation: 0.1
+max accuracy: 0.75
+--------------running with 22 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:08.059763 with 4 inputs, 2 outputs, [22] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:08.247225 with training error 0.116993 and weight change 0.002250
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 2
+Starting training at time 22:43:08.247550 with 4 inputs, 2 outputs, [22] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:08.438018 with training error 0.114839 and weight change 0.002421
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 3
+Starting training at time 22:43:08.438388 with 4 inputs, 2 outputs, [22] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:08.622512 with training error 0.127357 and weight change 0.002514
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 4
+Starting training at time 22:43:08.622918 with 4 inputs, 2 outputs, [22] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:08.816417 with training error 0.116771 and weight change 0.002605
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 5
+Starting training at time 22:43:08.816750 with 4 inputs, 2 outputs, [22] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:09.000054 with training error 0.119956 and weight change 0.002555
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+Iterations finished
+accuracy average: 0.75
+accuracy standard deviation: 0.22360679775
+max accuracy: 1.0
+--------------running with 23 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:09.000387 with 4 inputs, 2 outputs, [23] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:09.189446 with training error 0.115964 and weight change 0.002660
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 2
+Starting training at time 22:43:09.189759 with 4 inputs, 2 outputs, [23] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:09.379285 with training error 0.109495 and weight change 0.002630
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 3
+Starting training at time 22:43:09.379664 with 4 inputs, 2 outputs, [23] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:09.569268 with training error 0.128769 and weight change 0.002483
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 4
+Starting training at time 22:43:09.569611 with 4 inputs, 2 outputs, [23] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:09.759394 with training error 0.118418 and weight change 0.002597
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 5
+Starting training at time 22:43:09.759760 with 4 inputs, 2 outputs, [23] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:09.954831 with training error 0.127315 and weight change 0.002786
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+Iterations finished
+accuracy average: 0.65
+accuracy standard deviation: 0.2
+max accuracy: 0.75
+--------------running with 24 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:09.955178 with 4 inputs, 2 outputs, [24] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:10.149031 with training error 0.126794 and weight change 0.002414
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 2
+Starting training at time 22:43:10.149485 with 4 inputs, 2 outputs, [24] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:10.346928 with training error 0.125624 and weight change 0.002665
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 3
+Starting training at time 22:43:10.347307 with 4 inputs, 2 outputs, [24] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:10.541360 with training error 0.126355 and weight change 0.002617
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 4
+Starting training at time 22:43:10.541717 with 4 inputs, 2 outputs, [24] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:10.739829 with training error 0.132886 and weight change 0.002786
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 5
+Starting training at time 22:43:10.740245 with 4 inputs, 2 outputs, [24] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:10.937113 with training error 0.122920 and weight change 0.002641
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+Iterations finished
+accuracy average: 0.6
+accuracy standard deviation: 0.2
+max accuracy: 0.75
+--------------running with 25 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:10.937519 with 4 inputs, 2 outputs, [25] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:11.141219 with training error 0.117762 and weight change 0.002393
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 2
+Starting training at time 22:43:11.141619 with 4 inputs, 2 outputs, [25] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:11.344971 with training error 0.121710 and weight change 0.002019
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 3
+Starting training at time 22:43:11.345319 with 4 inputs, 2 outputs, [25] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:11.552511 with training error 0.124020 and weight change 0.002739
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 4
+Starting training at time 22:43:11.552993 with 4 inputs, 2 outputs, [25] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:11.754986 with training error 0.124180 and weight change 0.002417
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 5
+Starting training at time 22:43:11.755322 with 4 inputs, 2 outputs, [25] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:11.959487 with training error 0.115980 and weight change 0.002302
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+Iterations finished
+accuracy average: 0.6
+accuracy standard deviation: 0.122474487139
+max accuracy: 0.75
+--------------running with 26 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:11.959971 with 4 inputs, 2 outputs, [26] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:12.170364 with training error 0.125988 and weight change 0.002487
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 2
+Starting training at time 22:43:12.170738 with 4 inputs, 2 outputs, [26] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:12.384965 with training error 0.121266 and weight change 0.002770
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 3
+Starting training at time 22:43:12.385463 with 4 inputs, 2 outputs, [26] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:12.600100 with training error 0.117633 and weight change 0.002386
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 4
+Starting training at time 22:43:12.600497 with 4 inputs, 2 outputs, [26] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:12.814128 with training error 0.124168 and weight change 0.002173
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 5
+Starting training at time 22:43:12.814510 with 4 inputs, 2 outputs, [26] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:13.028297 with training error 0.123980 and weight change 0.002552
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+Iterations finished
+accuracy average: 0.65
+accuracy standard deviation: 0.122474487139
+max accuracy: 0.75
+--------------running with 27 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:13.028795 with 4 inputs, 2 outputs, [27] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:13.247152 with training error 0.111757 and weight change 0.002366
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 2
+Starting training at time 22:43:13.247581 with 4 inputs, 2 outputs, [27] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:13.486055 with training error 0.126396 and weight change 0.002686
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 3
+Starting training at time 22:43:13.486424 with 4 inputs, 2 outputs, [27] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:13.702238 with training error 0.118875 and weight change 0.002625
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 4
+Starting training at time 22:43:13.702640 with 4 inputs, 2 outputs, [27] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:13.919465 with training error 0.117443 and weight change 0.002719
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 5
+Starting training at time 22:43:13.919875 with 4 inputs, 2 outputs, [27] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:14.138512 with training error 0.102776 and weight change 0.002455
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Iterations finished
+accuracy average: 0.75
+accuracy standard deviation: 0.158113883008
+max accuracy: 1.0
+--------------running with 28 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:14.138987 with 4 inputs, 2 outputs, [28] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:14.361779 with training error 0.121586 and weight change 0.002484
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 2
+Starting training at time 22:43:14.362169 with 4 inputs, 2 outputs, [28] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:14.582369 with training error 0.115002 and weight change 0.002478
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 3
+Starting training at time 22:43:14.582752 with 4 inputs, 2 outputs, [28] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:14.804193 with training error 0.122879 and weight change 0.002434
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 4
+Starting training at time 22:43:14.804639 with 4 inputs, 2 outputs, [28] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:15.029796 with training error 0.107295 and weight change 0.002848
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 5
+Starting training at time 22:43:15.030188 with 4 inputs, 2 outputs, [28] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:15.255964 with training error 0.127187 and weight change 0.002587
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+Iterations finished
+accuracy average: 0.75
+accuracy standard deviation: 0.158113883008
+max accuracy: 1.0
+--------------running with 29 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:15.256478 with 4 inputs, 2 outputs, [29] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:15.491016 with training error 0.116999 and weight change 0.002485
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 2
+Starting training at time 22:43:15.491399 with 4 inputs, 2 outputs, [29] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:15.724320 with training error 0.119316 and weight change 0.002638
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 3
+Starting training at time 22:43:15.724795 with 4 inputs, 2 outputs, [29] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:15.977382 with training error 0.120629 and weight change 0.002724
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 4
+Starting training at time 22:43:15.977795 with 4 inputs, 2 outputs, [29] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:16.215713 with training error 0.112655 and weight change 0.002319
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 5
+Starting training at time 22:43:16.216287 with 4 inputs, 2 outputs, [29] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:16.528616 with training error 0.123713 and weight change 0.002127
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+Iterations finished
+accuracy average: 0.7
+accuracy standard deviation: 0.187082869339
+max accuracy: 1.0
+--------------running with 30 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:16.529040 with 4 inputs, 2 outputs, [30] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:16.822742 with training error 0.112490 and weight change 0.002396
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 2
+Starting training at time 22:43:16.823383 with 4 inputs, 2 outputs, [30] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:17.105229 with training error 0.125540 and weight change 0.002709
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 3
+Starting training at time 22:43:17.105662 with 4 inputs, 2 outputs, [30] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:17.388308 with training error 0.114915 and weight change 0.002226
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 4
+Starting training at time 22:43:17.388905 with 4 inputs, 2 outputs, [30] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:17.701107 with training error 0.115198 and weight change 0.002371
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 5
+Starting training at time 22:43:17.701624 with 4 inputs, 2 outputs, [30] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:17.951515 with training error 0.119602 and weight change 0.002301
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+Iterations finished
+accuracy average: 0.7
+accuracy standard deviation: 0.187082869339
+max accuracy: 1.0
+--------------running with 31 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:17.951939 with 4 inputs, 2 outputs, [31] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:18.203875 with training error 0.121925 and weight change 0.002536
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 2
+Starting training at time 22:43:18.204297 with 4 inputs, 2 outputs, [31] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:18.454848 with training error 0.127043 and weight change 0.002521
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 3
+Starting training at time 22:43:18.455271 with 4 inputs, 2 outputs, [31] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:18.709393 with training error 0.114090 and weight change 0.002490
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 4
+Starting training at time 22:43:18.710040 with 4 inputs, 2 outputs, [31] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:18.965766 with training error 0.121439 and weight change 0.002555
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 5
+Starting training at time 22:43:18.966186 with 4 inputs, 2 outputs, [31] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:19.220837 with training error 0.117113 and weight change 0.002467
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+Iterations finished
+accuracy average: 0.7
+accuracy standard deviation: 0.187082869339
+max accuracy: 1.0
+--------------running with 32 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:19.221487 with 4 inputs, 2 outputs, [32] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:19.499026 with training error 0.116399 and weight change 0.002568
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 2
+Starting training at time 22:43:19.499587 with 4 inputs, 2 outputs, [32] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:19.774526 with training error 0.125333 and weight change 0.002483
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 3
+Starting training at time 22:43:19.775197 with 4 inputs, 2 outputs, [32] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:20.045025 with training error 0.114669 and weight change 0.002404
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 4
+Starting training at time 22:43:20.045464 with 4 inputs, 2 outputs, [32] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:20.307093 with training error 0.123234 and weight change 0.002384
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 5
+Starting training at time 22:43:20.307583 with 4 inputs, 2 outputs, [32] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:20.563979 with training error 0.113990 and weight change 0.002326
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+Iterations finished
+accuracy average: 0.75
+accuracy standard deviation: 0.0
+max accuracy: 0.75
+--------------running with 33 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:20.564633 with 4 inputs, 2 outputs, [33] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:20.837426 with training error 0.116609 and weight change 0.002363
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 2
+Starting training at time 22:43:20.837887 with 4 inputs, 2 outputs, [33] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:21.101365 with training error 0.116967 and weight change 0.002353
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 3
+Starting training at time 22:43:21.102012 with 4 inputs, 2 outputs, [33] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:21.373034 with training error 0.115601 and weight change 0.002560
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 4
+Starting training at time 22:43:21.373569 with 4 inputs, 2 outputs, [33] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:21.644153 with training error 0.122129 and weight change 0.002892
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 5
+Starting training at time 22:43:21.644591 with 4 inputs, 2 outputs, [33] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:21.918698 with training error 0.099005 and weight change 0.002425
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Iterations finished
+accuracy average: 0.85
+accuracy standard deviation: 0.2
+max accuracy: 1.0
+--------------running with 34 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:21.919316 with 4 inputs, 2 outputs, [34] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:22.189165 with training error 0.123855 and weight change 0.002713
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 2
+Starting training at time 22:43:22.189658 with 4 inputs, 2 outputs, [34] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:22.463351 with training error 0.121288 and weight change 0.002591
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 3
+Starting training at time 22:43:22.463826 with 4 inputs, 2 outputs, [34] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:22.732659 with training error 0.115627 and weight change 0.002590
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 4
+Starting training at time 22:43:22.733180 with 4 inputs, 2 outputs, [34] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:23.008659 with training error 0.118418 and weight change 0.002499
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 5
+Starting training at time 22:43:23.009102 with 4 inputs, 2 outputs, [34] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:23.291705 with training error 0.112910 and weight change 0.002488
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Iterations finished
+accuracy average: 0.85
+accuracy standard deviation: 0.122474487139
+max accuracy: 1.0
+--------------running with 35 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:23.292193 with 4 inputs, 2 outputs, [35] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:23.563480 with training error 0.118727 and weight change 0.002623
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 2
+Starting training at time 22:43:23.563944 with 4 inputs, 2 outputs, [35] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:23.848539 with training error 0.128401 and weight change 0.002471
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 3
+Starting training at time 22:43:23.848979 with 4 inputs, 2 outputs, [35] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:24.138688 with training error 0.106408 and weight change 0.002421
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 4
+Starting training at time 22:43:24.139209 with 4 inputs, 2 outputs, [35] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:24.418874 with training error 0.124456 and weight change 0.002543
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 5
+Starting training at time 22:43:24.419382 with 4 inputs, 2 outputs, [35] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:24.700322 with training error 0.097478 and weight change 0.002511
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Iterations finished
+accuracy average: 0.8
+accuracy standard deviation: 0.187082869339
+max accuracy: 1.0
+--------------running with 36 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:24.700787 with 4 inputs, 2 outputs, [36] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:24.992215 with training error 0.118141 and weight change 0.002628
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 2
+Starting training at time 22:43:24.992715 with 4 inputs, 2 outputs, [36] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:25.280321 with training error 0.107222 and weight change 0.002371
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 3
+Starting training at time 22:43:25.280827 with 4 inputs, 2 outputs, [36] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:25.569468 with training error 0.105916 and weight change 0.002380
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 4
+Starting training at time 22:43:25.569911 with 4 inputs, 2 outputs, [36] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:25.853484 with training error 0.109925 and weight change 0.002310
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 5
+Starting training at time 22:43:25.854085 with 4 inputs, 2 outputs, [36] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:26.148308 with training error 0.105442 and weight change 0.002489
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Iterations finished
+accuracy average: 0.95
+accuracy standard deviation: 0.1
+max accuracy: 1.0
+--------------running with 37 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:26.148985 with 4 inputs, 2 outputs, [37] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:26.499721 with training error 0.112003 and weight change 0.002081
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 2
+Starting training at time 22:43:26.501049 with 4 inputs, 2 outputs, [37] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:26.846372 with training error 0.127352 and weight change 0.002642
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 3
+Starting training at time 22:43:26.846979 with 4 inputs, 2 outputs, [37] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:27.252870 with training error 0.131048 and weight change 0.002841
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 4
+Starting training at time 22:43:27.253440 with 4 inputs, 2 outputs, [37] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:27.617589 with training error 0.124993 and weight change 0.002453
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 5
+Starting training at time 22:43:27.618098 with 4 inputs, 2 outputs, [37] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:27.969908 with training error 0.111993 and weight change 0.002309
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Iterations finished
+accuracy average: 0.75
+accuracy standard deviation: 0.22360679775
+max accuracy: 1.0
+--------------running with 38 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:27.970757 with 4 inputs, 2 outputs, [38] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:28.340915 with training error 0.118072 and weight change 0.002358
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 2
+Starting training at time 22:43:28.341372 with 4 inputs, 2 outputs, [38] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:28.646733 with training error 0.123509 and weight change 0.002460
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 3
+Starting training at time 22:43:28.647192 with 4 inputs, 2 outputs, [38] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:28.960561 with training error 0.127717 and weight change 0.002678
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 4
+Starting training at time 22:43:28.961073 with 4 inputs, 2 outputs, [38] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:29.260642 with training error 0.119327 and weight change 0.002608
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 5
+Starting training at time 22:43:29.261168 with 4 inputs, 2 outputs, [38] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:29.575808 with training error 0.118947 and weight change 0.002411
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+Iterations finished
+accuracy average: 0.75
+accuracy standard deviation: 0.158113883008
+max accuracy: 1.0
+--------------running with 39 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:29.576478 with 4 inputs, 2 outputs, [39] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:29.889121 with training error 0.119976 and weight change 0.002696
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 2
+Starting training at time 22:43:29.889662 with 4 inputs, 2 outputs, [39] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:30.195568 with training error 0.110999 and weight change 0.002401
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 3
+Starting training at time 22:43:30.196167 with 4 inputs, 2 outputs, [39] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:30.503972 with training error 0.111362 and weight change 0.002403
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 4
+Starting training at time 22:43:30.504450 with 4 inputs, 2 outputs, [39] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:30.883751 with training error 0.184634 and weight change 0.001370
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 5
+Starting training at time 22:43:30.884764 with 4 inputs, 2 outputs, [39] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:31.221976 with training error 0.115845 and weight change 0.002432
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Iterations finished
+accuracy average: 0.85
+accuracy standard deviation: 0.2
+max accuracy: 1.0
+--------------running with 40 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:31.222591 with 4 inputs, 2 outputs, [40] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:31.576198 with training error 0.095179 and weight change 0.002220
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 2
+Starting training at time 22:43:31.576793 with 4 inputs, 2 outputs, [40] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:31.895276 with training error 0.112795 and weight change 0.002478
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 3
+Starting training at time 22:43:31.895964 with 4 inputs, 2 outputs, [40] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:32.315672 with training error 0.121162 and weight change 0.002493
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 4
+Starting training at time 22:43:32.316201 with 4 inputs, 2 outputs, [40] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:32.641373 with training error 0.100415 and weight change 0.002242
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 5
+Starting training at time 22:43:32.641878 with 4 inputs, 2 outputs, [40] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:33.075192 with training error 0.121510 and weight change 0.002498
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+Iterations finished
+accuracy average: 0.9
+accuracy standard deviation: 0.122474487139
+max accuracy: 1.0
+--------------running with 41 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:33.076235 with 4 inputs, 2 outputs, [41] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:33.429078 with training error 0.128294 and weight change 0.002480
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+running iteration # 2
+Starting training at time 22:43:33.429599 with 4 inputs, 2 outputs, [41] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:33.857364 with training error 0.115944 and weight change 0.002396
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 3
+Starting training at time 22:43:33.858197 with 4 inputs, 2 outputs, [41] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:34.195485 with training error 0.129505 and weight change 0.002701
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 4
+Starting training at time 22:43:34.196026 with 4 inputs, 2 outputs, [41] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:34.553764 with training error 0.108270 and weight change 0.002339
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 5
+Starting training at time 22:43:34.554292 with 4 inputs, 2 outputs, [41] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:34.864097 with training error 0.122305 and weight change 0.002641
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+Iterations finished
+accuracy average: 0.6
+accuracy standard deviation: 0.2
+max accuracy: 0.75
+--------------running with 42 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:34.864643 with 4 inputs, 2 outputs, [42] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:35.260681 with training error 0.112866 and weight change 0.002328
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 2
+Starting training at time 22:43:35.261309 with 4 inputs, 2 outputs, [42] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:35.626241 with training error 0.116889 and weight change 0.002469
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+running iteration # 3
+Starting training at time 22:43:35.626824 with 4 inputs, 2 outputs, [42] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:35.974602 with training error 0.116647 and weight change 0.002425
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 4
+Starting training at time 22:43:35.975188 with 4 inputs, 2 outputs, [42] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:36.329858 with training error 0.182205 and weight change 0.001437
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+running iteration # 5
+Starting training at time 22:43:36.330624 with 4 inputs, 2 outputs, [42] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:36.681882 with training error 0.114018 and weight change 0.002246
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Iterations finished
+accuracy average: 0.8
+accuracy standard deviation: 0.291547594742
+max accuracy: 1.0
+--------------running with 43 neurons per hidden layer------------------
+running iteration # 1
+Starting training at time 22:43:36.682482 with 4 inputs, 2 outputs, [43] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:37.038435 with training error 0.115313 and weight change 0.002421
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 2
+Starting training at time 22:43:37.039031 with 4 inputs, 2 outputs, [43] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:37.396846 with training error 0.112121 and weight change 0.002346
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 3
+Starting training at time 22:43:37.397620 with 4 inputs, 2 outputs, [43] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:37.755097 with training error 0.100054 and weight change 0.002350
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 4
+Starting training at time 22:43:37.755666 with 4 inputs, 2 outputs, [43] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:38.141385 with training error 0.100956 and weight change 0.002196
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+running iteration # 5
+Starting training at time 22:43:38.141970 with 4 inputs, 2 outputs, [43] hidden layers, size of training set 4, and size of test set 4
+Finished after 200 iterations at time 22:43:38.505022 with training error 0.108973 and weight change 0.002501
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Iterations finished
+accuracy average: 1.0
+accuracy standard deviation: 0.0
+max accuracy: 1.0

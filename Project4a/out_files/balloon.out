@@ -1,0 +1,13 @@
+Age = ADULT
+|---T
+Age = CHILD
+|---Act = STRETCH
+|---|---T
+|---Act = DIP
+|---|---Color = PURPLE
+|---|---|---Size = LARGE
+|---|---|---|---
+|---|---|---Size = SMALL
+|---|---|---|---F
+|---|---Color = YELLOW
+|---|---|---F
